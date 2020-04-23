@@ -15,7 +15,7 @@ cause_details[, c("cause", "detail") := tstrsplit(V1, " include: ", fixed=TRUE)]
 # Define UI for app that draws the line plot ----
 ui <- fluidPage(
   # App title ----
-  titlePanel("How have people died in the last 30 years?"),
+  titlePanel("Causes of worldwide deaths in the last 30 years."),
   # Sidebar layout with input and output definitions ----
   sidebarLayout(
     # Sidebar panel for inputs ----
@@ -47,9 +47,10 @@ ui <- fluidPage(
   hr(),
   
     fluidRow(
-    column(12, helpText("This is a personal, non-commercial project created for 
-                        personal learning project. Code is available at 
-                        https://github.com/jindalpankaj/r-shiny-causes-of-death. Last updated 22 April 2020."), 
+    column(12, helpText("This is a non-commercial project created for 
+                        the purpose of self-learning. Code is available at 
+                        https://github.com/jindalpankaj/r-shiny-causes-of-death. 
+                        Last updated 22 April 2020."), 
            align = "center")
   ),
   
