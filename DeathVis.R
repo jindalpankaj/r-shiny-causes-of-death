@@ -49,7 +49,7 @@ ui <- fluidPage(
     fluidRow(
     column(12, helpText("This is a personal, non-commercial project created for 
                         personal learning project. Code is available at 
-                        https://github.com/jindalpankaj/<insert the final link>. Last updated 22 April 2020."), 
+                        https://github.com/jindalpankaj/r-shiny-causes-of-death. Last updated 22 April 2020."), 
            align = "center")
   ),
   
