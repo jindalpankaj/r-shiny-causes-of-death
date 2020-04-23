@@ -1,0 +1,35 @@
+Enteric infections include: Diarrheal diseases, Typhoid and paratyphoid, Invasive Non-typhoidal Salmonella (iNTS) and other intestinal infectious diseases.
+
+Neglected tropical diseases and malaria include: Malaria, Chagas disease, Leishmaniasis, African trypanosomiasis, Schistosomiasis, Cysticercosis, Cystic echinococcosis, Lymphatic filariasis, Onchocerciasis, Trachoma, Dengue, Yellow fever, Rabies, Intestinal nematode infections, Food-borne trematodiases, Leprosy, Ebola, Zika virus, Guinea worm disease and other neglected tropical diseases.
+
+Other infectious diseases include: Meningitis, Encephalitis, Diphtheria, Whooping cough, Tetanus, Measles, Varicella and herpes zoster, Acute hepatitis and other unspecified infectious diseases.
+
+Nutritional deficiencies include: Protein-energy malnutrition, Iodine deficiency, Vitamin A deficiency, Dietary iron deficiency and other nutritional deficiencies.
+
+Neoplasms include: Lip and oral cavity cancer, Nasopharynx cancer, Other pharynx cancer, Esophageal cancer, Stomach cancer, Colon and rectum cancer, Liver cancer, Gallbladder and biliary tract cancer, Pancreatic cancer, Larynx cancer, Tracheal, bronchus, and lung cancer, Malignant skin melanoma, Non-melanoma skin cancer, Breast cancer, Cervical cancer, Uterine cancer, Ovarian cancer, Prostate cancer, Testicular cancer, Kidney cancer, Bladder cancer, Brain and nervous system cancer, Thyroid cancer, Mesothelioma, Hodgkin lymphoma, Non-Hodgkin lymphoma, Multiple myeloma, Leukemia and other malignant neoplasms.
+
+Cardiovascular diseases include: Rheumatic heart disease, Ischemic heart disease, Stroke, Hypertensive heart disease, Non-rheumatic valvular heart disease, Cardiomyopathy and myocarditis, Atrial fibrillation and flutter, Aortic aneurysm, Peripheral artery disease, Endocarditis and other cardiovascular and circulatory diseases.
+
+Chronic respiratory diseases include: Chronic obstructive pulmonary disease, Pneumoconiosis, Asthma, Interstitial lung disease and pulmonary sarcoidosis and other chronic respiratory diseases.
+
+Digestive diseases include: Cirrhosis and other chronic liver diseases, Upper digestive system diseases, Appendicitis, Paralytic ileus and intestinal obstruction, Inguinal, femoral, and abdominal hernia, Inflammatory bowel disease, Vascular intestinal disorders, Gallbladder and biliary diseases, Pancreatitis, and other digestive diseases.
+
+Neurological disorders include: Alzheimer's disease and other dementias, Parkinson's disease, Epilepsy, Multiple sclerosis, Motor neuron disease, Headache disorders and other neurological disorders.
+
+Mental disorders include: Schizophrenia, Depressive disorders, Bipolar disorder, Anxiety disorders, Eating disorders, Autism spectrum disorders, Attention-deficit/hyperactivity disorder, Conduct disorder, Idiopathic developmental intellectual disability and oOther mental disorders.
+
+Substance use disorders include: Alcohol use disorders and Drug use disorders.
+
+Diabetes and kidney diseases include: Diabetes mellitus, Chronic kidney disease and Acute glomerulonephritis.
+
+Skin and subcutaneous diseases include: Dermatitis, Psoriasis, Bacterial skin diseases, Scabies, Fungal skin diseases, Viral skin diseases, Acne vulgaris, Alopecia areata, Pruritus, Urticaria, Decubitus ulcer and other skin and subcutaneous diseases.
+
+Sense organ diseases include: Blindness and vision impairment, Age-related and other hearing loss and other sense organ diseases.
+
+Musculoskeletal disorders include: Rheumatoid arthritis, Osteoarthritis, Low back pain, Neck pain, Gout and other musculoskeletal disorders.
+
+Other non-communicable diseases include: Congenital birth defects, Urinary diseases and male infertility, Gynecological diseases, Hemoglobinopathies and hemolytic anemias, Endocrine, metabolic, blood, and immune disorders, Oral disorders, and Sudden infant death syndrome.
+
+Unintentional injuries include: Falls, Drowning, Fire, heat, and hot substances, Poisonings, Exposure to mechanical forces, Adverse effects of medical treatment, Animal contact, Foreign body, Environmental heat and cold exposure, Exposure to forces of nature and other unintentional injuries.
+
+Self-harm and interpersonal violence include: Self-harm, Interpersonal violence, Conflict and terrorism, and Executions and police conflict.
